@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36684'
     url: http://www.gutenberg.org/2009/agents/36684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33835#Journal-of-Voyagesby-the-English-and-Once-by-Gibbs-the-Pirate...
 gutenberg_issued: '2010-10-03'
 gutenberg_type: Text
 identifiers:
