@@ -1,0 +1,26 @@
+_repo: Journal-of-Voyagesby-the-English-and-Once-by-Gibbs-the-Pirate..._33835
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunham, Jacob
+    birthdate: 1779
+    gutenberg_agent_id: '36684'
+    url: http://www.gutenberg.org/2009/agents/36684
+description: ''
+gutenberg_issued: '2010-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33835'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcc 'G'
+title: "Journal of Voyages\r\nContaining an Account of the Author's being Twice Captured\
+  \ by the English and Once by Gibbs the Pirate..."
+url: http://www.gutenberg.org/ebooks/33835
